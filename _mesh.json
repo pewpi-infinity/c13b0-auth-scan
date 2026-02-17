@@ -1,0 +1,27 @@
+{
+  "mesh_version": "1.0.0",
+  "repo": "c13b0-auth-scan",
+  "machine_type": "c13b0",
+  "role": "core_system",
+  "cart_logic": "cart044_earth_vessel",
+  "color": "#FFD700",
+  "upstream": [
+    "b55-evo-v2-1769713864",
+    "b55-evo-v2-1769138774",
+    "b55-evo-v1-1769713847"
+  ],
+  "downstream": [
+    "infinity-crown-index",
+    "infinity-crown-hub"
+  ],
+  "sovereign_endpoint": "https://pewpi-infinity.github.io/sovereign-interface/",
+  "crown_index": "https://pewpi-infinity.github.io/infinity-crown-index/",
+  "auto_discovery": true,
+  "wired_at": "2026-02-17T08:15:19",
+  "links": {
+    "self": "https://pewpi-infinity.github.io/c13b0-auth-scan/",
+    "github": "https://github.com/pewpi-infinity/c13b0-auth-scan",
+    "crown": "https://pewpi-infinity.github.io/infinity-crown-index/",
+    "sovereign": "https://pewpi-infinity.github.io/sovereign-interface/"
+  }
+}
